@@ -1,0 +1,7 @@
+---
+name: Autorespawn
+version: 0.0.1
+main: _4ulag\Autorespawn\Main
+api: 5.18.0
+src-namespace-prefix: _4ulag\Autorespawn
+...
